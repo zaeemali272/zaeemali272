@@ -7,9 +7,9 @@
 - 🥅 2022 Goals: F🤣
 
 ### Connect with me:
-[![website](./img/twitter-light.svg)](https://twitter.com/sup_boiiii)
+[![website](./img/twitter-dark.svg)](https://twitter.com/sup_boiiii)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/zaeem-ali-1b6246174/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/zaeem-ali-1b6246174/)
 
 ### Languages and Tools:
 
@@ -21,7 +21,7 @@
 <br />
 <br />
 
----
+
 
 
 <details>

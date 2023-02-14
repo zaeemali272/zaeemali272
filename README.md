@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: F🤣
 

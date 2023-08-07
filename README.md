@@ -28,8 +28,7 @@
 
 
 
-
-  <img align="left" alt="Zaeem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zaeemali272&show_icons=true&theme=merko) />
+<img align="left" alt="Zaeem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zaeemali272&show_icons=true&theme=merko) />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaeemali272&layout=compact)
 

@@ -24,6 +24,8 @@
 
 <br />
 <br />
+<br />
+<br />
 
-![zaeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaeemali272&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaeemali272&layout=compact&theme=merko)
+![zaeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaeemali272&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaeemali272&layout=donut&theme=merko)
 

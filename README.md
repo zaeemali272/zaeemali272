@@ -2,14 +2,14 @@
 
 ## I'm a Student, Developer!!
 
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning ReactJS
+- 👯 I’m looking to collaborate with other creators
 - 🥅 2023 Goals: 💀
 
 ### Connect with me:
-[![website](./img/twitter-light.svg)](https://twitter.com/sup_boiiii)
+[![website](./img/twitter-dark.svg)](https://twitter.com/sup_boiiii)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/zaeem-ali-1b6246174/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/zaeem-ali-1b6246174/)
 
 ### Languages and Tools:
 
@@ -20,6 +20,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
@@ -28,6 +29,7 @@
 
 
 
-  <img align="left" alt="Zaeem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zaeemali272&show_icons=true&hide_border=true" />
+  <img align="left" alt="Zaeem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zaeemali272&show_icons=true&theme=merko) />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaeemali272&layout=compact)
 

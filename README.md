@@ -60,13 +60,26 @@ Open to collaborating on projects that push boundaries, optimize performance, or
 
 ### 🔥 Top Repositories
 
-[![Hyprland-dots](https://github-readme-stats.vercel.app/api/pin/?username=zaeemali272&repo=Hyprland-dots&theme=merko)](https://github.com/zaeemali272/Hyprland-dots)  
-[![Ubuntu-Mod](https://github-readme-stats.vercel.app/api/pin/?username=zaeemali272&repo=Ubuntu-Mod&theme=merko)](https://github.com/zaeemali272/Ubuntu-Mod)  
-[![olxClone](https://github-readme-stats.vercel.app/api/pin/?username=zaeemali272&repo=olxClone&theme=merko)](https://github.com/zaeemali272/olxClone)  
-[![quintessential-devs](https://github-readme-stats.vercel.app/api/pin/?username=zaeemali272&repo=quintessential-devs&theme=merko)](https://github.com/zaeemali272/quintessential-devs)  
+<p align="center">
+  <a href="https://github.com/zaeemali272/Hyprland-dots">
+    <img src="https://img.shields.io/badge/🌟-Hyprland--dots-%23FFDD00?style=for-the-badge&logo=github&logoColor=white" alt="Hyprland-dots" style="margin:5px;" />
+  </a>
+  <a href="https://github.com/zaeemali272/Ubuntu-Mod">
+    <img src="https://img.shields.io/badge/🌟-Ubuntu--Mod-%23FFDD00?style=for-the-badge&logo=github&logoColor=white" alt="Ubuntu-Mod" style="margin:5px;" />
+  </a>
+  <a href="https://github.com/zaeemali272/olxClone">
+    <img src="https://img.shields.io/badge/🌟-olxClone-%23FFDD00?style=for-the-badge&logo=github&logoColor=white" alt="olxClone" style="margin:5px;" />
+  </a>
+  <a href="https://github.com/zaeemali272/quintessential-devs">
+    <img src="https://img.shields.io/badge/🌟-quintessential--devs-%23FFDD00?style=for-the-badge&logo=github&logoColor=white" alt="quintessential-devs" style="margin:5px;" />
+  </a>
+</p>
 
 ---
 
 
+
+
+
+
 **Fun Fact:** I automate, optimize, and push for **lightweight solutions everywhere I go**. No fluff, just results.  
-![Rocket GIF](https://media.giphy.com/media/26BRBupa8zQQyJClG/giphy.gif)
